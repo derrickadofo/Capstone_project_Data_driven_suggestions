@@ -51,7 +51,7 @@ The dataset contains the following columns:
 - derrickfosuadofo@gmail.com
 
 ## License
-This project is a part of the Advanced Google data analytics program offered on Coursera
+This project is a part of the Advanced Google data analytics program offered on Coursera.
 
 
 
